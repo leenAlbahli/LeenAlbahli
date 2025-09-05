@@ -8,9 +8,7 @@
   <a href="https://www.linkedin.com/in/leen-albahli-1579721a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin">
   </a>
-  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube">
-  </a>
+ 
 </p>
 
 - 💻 مطورة ويب متخصصة في HTML, CSS, JavaScript
